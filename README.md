@@ -1,5 +1,5 @@
-# complicated-dugout-tire-model
-Complicated dugout tire model - MATLAB / SIMULINK
+# complicated-dugoff-tire-model
+Complicated dugoff tire model - MATLAB / SIMULINK
 this part, I implemented the Complicated Dugoff tire model in MATLAB/Simulink. The
 Simulink structure was kept the same as the Simple Dugoff model. However, the MATLAB
 Function block was modified.
